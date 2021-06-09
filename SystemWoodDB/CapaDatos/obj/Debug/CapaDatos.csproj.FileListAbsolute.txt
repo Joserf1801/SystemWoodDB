@@ -1,0 +1,23 @@
+C:\Users\joser\OneDrive\Escritorio\Materias 5° Semestre\Taller de Base de datos\Parcial 4\Proyecto\SystemWoodDB\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\joser\OneDrive\Escritorio\Materias 5° Semestre\Taller de Base de datos\Parcial 4\Proyecto\SystemWoodDB\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\joser\OneDrive\Escritorio\Materias 5° Semestre\Taller de Base de datos\Parcial 4\Proyecto\SystemWoodDB\CapaDatos\bin\Debug\CapaEntidades.dll
+C:\Users\joser\OneDrive\Escritorio\Materias 5° Semestre\Taller de Base de datos\Parcial 4\Proyecto\SystemWoodDB\CapaDatos\bin\Debug\CapaEntidades.pdb
+C:\Users\joser\OneDrive\Escritorio\Materias 5° Semestre\Taller de Base de datos\Parcial 4\Proyecto\SystemWoodDB\CapaDatos\obj\Debug\CapaDatos.csprojResolveAssemblyReference.cache
+C:\Users\joser\OneDrive\Escritorio\Materias 5° Semestre\Taller de Base de datos\Parcial 4\Proyecto\SystemWoodDB\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\joser\OneDrive\Escritorio\Materias 5° Semestre\Taller de Base de datos\Parcial 4\Proyecto\SystemWoodDB\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\ahmed\Desktop\Proyecto\SystemWoodDB\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\ahmed\Desktop\Proyecto\SystemWoodDB\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\ahmed\Desktop\Proyecto\SystemWoodDB\CapaDatos\bin\Debug\CapaEntidades.dll
+C:\Users\ahmed\Desktop\Proyecto\SystemWoodDB\CapaDatos\bin\Debug\CapaEntidades.pdb
+C:\Users\ahmed\Desktop\Proyecto\SystemWoodDB\CapaDatos\obj\Debug\CapaDatos.csprojAssemblyReference.cache
+C:\Users\ahmed\Desktop\Proyecto\SystemWoodDB\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\ahmed\Desktop\Proyecto\SystemWoodDB\CapaDatos\obj\Debug\CapaDatos.csproj.CopyComplete
+C:\Users\ahmed\Desktop\Proyecto\SystemWoodDB\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\ahmed\Desktop\Proyecto\SystemWoodDB\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\joser\OneDrive\Escritorio\Materias 5° Semestre\Taller de Base de datos\Parcial 4\Proyecto\Copia Seguridad\Proyecto\SystemWoodDB\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\joser\OneDrive\Escritorio\Materias 5° Semestre\Taller de Base de datos\Parcial 4\Proyecto\Copia Seguridad\Proyecto\SystemWoodDB\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\joser\OneDrive\Escritorio\Materias 5° Semestre\Taller de Base de datos\Parcial 4\Proyecto\Copia Seguridad\Proyecto\SystemWoodDB\CapaDatos\bin\Debug\CapaEntidades.dll
+C:\Users\joser\OneDrive\Escritorio\Materias 5° Semestre\Taller de Base de datos\Parcial 4\Proyecto\Copia Seguridad\Proyecto\SystemWoodDB\CapaDatos\bin\Debug\CapaEntidades.pdb
+C:\Users\joser\OneDrive\Escritorio\Materias 5° Semestre\Taller de Base de datos\Parcial 4\Proyecto\Copia Seguridad\Proyecto\SystemWoodDB\CapaDatos\obj\Debug\CapaDatos.csprojResolveAssemblyReference.cache
+C:\Users\joser\OneDrive\Escritorio\Materias 5° Semestre\Taller de Base de datos\Parcial 4\Proyecto\Copia Seguridad\Proyecto\SystemWoodDB\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\joser\OneDrive\Escritorio\Materias 5° Semestre\Taller de Base de datos\Parcial 4\Proyecto\Copia Seguridad\Proyecto\SystemWoodDB\CapaDatos\obj\Debug\CapaDatos.pdb

@@ -1,0 +1,339 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{7FCF9CCD-4660-4264-905E-124CCA5DC41D}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>CapaPresentacion</RootNamespace>
+    <AssemblyName>CapaPresentacion</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Bunifu_UI_v1.52">
+      <HintPath>..\..\..\..\..\..\Programas\Componentes Dinamicos\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Bunifu_UI_v1.52.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Management" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="CacheUsuario.cs" />
+    <Compile Include="UIJose\FormProgreso.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UIJose\FormProgreso.Designer.cs">
+      <DependentUpon>FormProgreso.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UIJose\FormReporteVentas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UIJose\FormReporteVentas.designer.cs">
+      <DependentUpon>FormReporteVentas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UIJose\FormReporteVentas2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UIJose\FormReporteVentas2.designer.cs">
+      <DependentUpon>FormReporteVentas2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UIJose\FormularioPrincipal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UIJose\FormularioPrincipal.Designer.cs">
+      <DependentUpon>FormularioPrincipal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UIAhmed\FrmConsultarCuentas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UIAhmed\FrmConsultarCuentas.Designer.cs">
+      <DependentUpon>FrmConsultarCuentas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UIAhmed\FrmEditarPerfil.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UIAhmed\FrmEditarPerfil.Designer.cs">
+      <DependentUpon>FrmEditarPerfil.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UIAhmed\FrmEmpleado.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UIAhmed\FrmEmpleado.Designer.cs">
+      <DependentUpon>FrmEmpleado.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UIJose\FormularioVentas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UIJose\FormularioVentas.designer.cs">
+      <DependentUpon>FormularioVentas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UIJose\LoginForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UIJose\LoginForm.Designer.cs">
+      <DependentUpon>LoginForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="UIEzequiel\Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UIEzequiel\Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UIEzequiel\FrmCategoriaProductos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UIEzequiel\FrmCategoriaProductos.Designer.cs">
+      <DependentUpon>FrmCategoriaProductos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UIEzequiel\FrmConsultaPorCodigo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UIEzequiel\FrmConsultaPorCodigo.Designer.cs">
+      <DependentUpon>FrmConsultaPorCodigo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UIEzequiel\FrmConsultarPorNombre.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UIEzequiel\FrmConsultarPorNombre.Designer.cs">
+      <DependentUpon>FrmConsultarPorNombre.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UIEzequiel\FrmNuevosProductos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UIEzequiel\FrmNuevosProductos.Designer.cs">
+      <DependentUpon>FrmNuevosProductos.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="UIJose\FormProgreso.resx">
+      <DependentUpon>FormProgreso.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UIJose\FormReporteVentas.resx">
+      <DependentUpon>FormReporteVentas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UIJose\FormReporteVentas2.resx">
+      <DependentUpon>FormReporteVentas2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UIJose\FormularioPrincipal.resx">
+      <DependentUpon>FormularioPrincipal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UIAhmed\FrmConsultarCuentas.resx">
+      <DependentUpon>FrmConsultarCuentas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UIAhmed\FrmEditarPerfil.resx">
+      <DependentUpon>FrmEditarPerfil.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UIAhmed\FrmEmpleado.resx">
+      <DependentUpon>FrmEmpleado.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UIJose\FormularioVentas.resx">
+      <DependentUpon>FormularioVentas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UIJose\LoginForm.resx">
+      <DependentUpon>LoginForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="UIEzequiel\Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UIEzequiel\FrmCategoriaProductos.resx">
+      <DependentUpon>FrmCategoriaProductos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UIEzequiel\FrmConsultaPorCodigo.resx">
+      <DependentUpon>FrmConsultaPorCodigo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UIEzequiel\FrmConsultarPorNombre.resx">
+      <DependentUpon>FrmConsultarPorNombre.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UIEzequiel\FrmNuevosProductos.resx">
+      <DependentUpon>FrmNuevosProductos.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config">
+      <SubType>Designer</SubType>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\CapaEntidades\CapaEntidades.csproj">
+      <Project>{84452495-3975-4832-96d9-4be77164ad23}</Project>
+      <Name>CapaEntidades</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\CapaNegocio\CapaNegocio.csproj">
+      <Project>{2c8acb6c-59c4-4e94-87ee-7cf1076c3c18}</Project>
+      <Name>CapaNegocio</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Logotipo.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Imagen1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Ojo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\TexboxDiseño2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\LogoBlanco.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\PestañaTriangular.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\LogoRojo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\LogoRojo2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Linea.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Triangulo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Ventas2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ventas.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\VentasBlanco.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\inventario.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\empleado.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\proveedorIcon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\IconCerrarSesión.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\IconoUsuario.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\IconoCuentasUsuarios.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\BorrarIcono.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Ficha_Empleado.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Ficha_Articulos.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Ficha_Total.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\archivo-excel1.png" />
+    <None Include="Resources\calendario.png" />
+    <Content Include="Resources\CerrarForm.png" />
+    <Content Include="Resources\descarga %281%29.jpg" />
+    <None Include="Resources\descuento.png" />
+    <Content Include="Resources\Flecha.png" />
+    <None Include="Resources\Imagen11.png" />
+    <None Include="Resources\Icono_Ajuste.png" />
+    <Content Include="Resources\images.png" />
+    <None Include="UIEzequiel\Resources\images.png" />
+    <None Include="UIEzequiel\Resources\Imagen1.png" />
+    <None Include="UIEzequiel\Resources\Flecha.png" />
+    <None Include="UIEzequiel\Resources\descarga %281%29.jpg" />
+    <None Include="UIEzequiel\Resources\CerrarForm.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="Microsoft.Office.Core">
+      <Guid>{2DF8D04C-5BFA-101B-BDE5-00AA0044DE52}</Guid>
+      <VersionMajor>2</VersionMajor>
+      <VersionMinor>8</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="Microsoft.Office.Interop.Excel">
+      <Guid>{00020813-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>9</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="VBIDE">
+      <Guid>{0002E157-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>5</VersionMajor>
+      <VersionMinor>3</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

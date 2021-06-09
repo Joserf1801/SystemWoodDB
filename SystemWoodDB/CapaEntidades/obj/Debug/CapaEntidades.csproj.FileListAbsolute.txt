@@ -1,0 +1,11 @@
+C:\Users\joser\OneDrive\Escritorio\Materias 5° Semestre\Taller de Base de datos\Parcial 4\Proyecto\SystemWoodDB\CapaEntidades\bin\Debug\CapaEntidades.dll
+C:\Users\joser\OneDrive\Escritorio\Materias 5° Semestre\Taller de Base de datos\Parcial 4\Proyecto\SystemWoodDB\CapaEntidades\bin\Debug\CapaEntidades.pdb
+C:\Users\joser\OneDrive\Escritorio\Materias 5° Semestre\Taller de Base de datos\Parcial 4\Proyecto\SystemWoodDB\CapaEntidades\obj\Debug\CapaEntidades.csprojResolveAssemblyReference.cache
+C:\Users\joser\OneDrive\Escritorio\Materias 5° Semestre\Taller de Base de datos\Parcial 4\Proyecto\SystemWoodDB\CapaEntidades\obj\Debug\CapaEntidades.dll
+C:\Users\joser\OneDrive\Escritorio\Materias 5° Semestre\Taller de Base de datos\Parcial 4\Proyecto\SystemWoodDB\CapaEntidades\obj\Debug\CapaEntidades.pdb
+C:\Users\ahmed\Desktop\Proyecto\SystemWoodDB\CapaEntidades\bin\Debug\CapaEntidades.dll
+C:\Users\ahmed\Desktop\Proyecto\SystemWoodDB\CapaEntidades\bin\Debug\CapaEntidades.pdb
+C:\Users\ahmed\Desktop\Proyecto\SystemWoodDB\CapaEntidades\obj\Debug\CapaEntidades.csprojAssemblyReference.cache
+C:\Users\ahmed\Desktop\Proyecto\SystemWoodDB\CapaEntidades\obj\Debug\CapaEntidades.csproj.CoreCompileInputs.cache
+C:\Users\ahmed\Desktop\Proyecto\SystemWoodDB\CapaEntidades\obj\Debug\CapaEntidades.dll
+C:\Users\ahmed\Desktop\Proyecto\SystemWoodDB\CapaEntidades\obj\Debug\CapaEntidades.pdb

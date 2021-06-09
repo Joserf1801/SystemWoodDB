@@ -1,0 +1,29 @@
+C:\Users\joser\OneDrive\Escritorio\Materias 5° Semestre\Taller de Base de datos\Parcial 4\Proyecto\SystemWoodDB\CapaNegocio\bin\Debug\CapaNegocio.dll
+C:\Users\joser\OneDrive\Escritorio\Materias 5° Semestre\Taller de Base de datos\Parcial 4\Proyecto\SystemWoodDB\CapaNegocio\bin\Debug\CapaNegocio.pdb
+C:\Users\joser\OneDrive\Escritorio\Materias 5° Semestre\Taller de Base de datos\Parcial 4\Proyecto\SystemWoodDB\CapaNegocio\obj\Debug\CapaNegocio.dll
+C:\Users\joser\OneDrive\Escritorio\Materias 5° Semestre\Taller de Base de datos\Parcial 4\Proyecto\SystemWoodDB\CapaNegocio\obj\Debug\CapaNegocio.pdb
+C:\Users\joser\OneDrive\Escritorio\Materias 5° Semestre\Taller de Base de datos\Parcial 4\Proyecto\SystemWoodDB\CapaNegocio\bin\Debug\CapaDatos.dll
+C:\Users\joser\OneDrive\Escritorio\Materias 5° Semestre\Taller de Base de datos\Parcial 4\Proyecto\SystemWoodDB\CapaNegocio\bin\Debug\CapaEntidades.dll
+C:\Users\joser\OneDrive\Escritorio\Materias 5° Semestre\Taller de Base de datos\Parcial 4\Proyecto\SystemWoodDB\CapaNegocio\bin\Debug\CapaDatos.pdb
+C:\Users\joser\OneDrive\Escritorio\Materias 5° Semestre\Taller de Base de datos\Parcial 4\Proyecto\SystemWoodDB\CapaNegocio\bin\Debug\CapaEntidades.pdb
+C:\Users\joser\OneDrive\Escritorio\Materias 5° Semestre\Taller de Base de datos\Parcial 4\Proyecto\SystemWoodDB\CapaNegocio\obj\Debug\CapaNegocio.csprojResolveAssemblyReference.cache
+C:\Users\ahmed\Desktop\Proyecto\SystemWoodDB\CapaNegocio\obj\Debug\CapaNegocio.csprojAssemblyReference.cache
+C:\Users\ahmed\Desktop\Proyecto\SystemWoodDB\CapaNegocio\obj\Debug\CapaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\ahmed\Desktop\Proyecto\SystemWoodDB\CapaNegocio\obj\Debug\CapaNegocio.dll
+C:\Users\ahmed\Desktop\Proyecto\SystemWoodDB\CapaNegocio\obj\Debug\CapaNegocio.pdb
+C:\Users\ahmed\Desktop\Proyecto\SystemWoodDB\CapaNegocio\bin\Debug\CapaNegocio.dll
+C:\Users\ahmed\Desktop\Proyecto\SystemWoodDB\CapaNegocio\bin\Debug\CapaNegocio.pdb
+C:\Users\ahmed\Desktop\Proyecto\SystemWoodDB\CapaNegocio\bin\Debug\CapaDatos.dll
+C:\Users\ahmed\Desktop\Proyecto\SystemWoodDB\CapaNegocio\bin\Debug\CapaEntidades.dll
+C:\Users\ahmed\Desktop\Proyecto\SystemWoodDB\CapaNegocio\bin\Debug\CapaDatos.pdb
+C:\Users\ahmed\Desktop\Proyecto\SystemWoodDB\CapaNegocio\bin\Debug\CapaEntidades.pdb
+C:\Users\ahmed\Desktop\Proyecto\SystemWoodDB\CapaNegocio\obj\Debug\CapaNegocio.csproj.CopyComplete
+C:\Users\joser\OneDrive\Escritorio\Materias 5° Semestre\Taller de Base de datos\Parcial 4\Proyecto\Copia Seguridad\Proyecto\SystemWoodDB\CapaNegocio\bin\Debug\CapaNegocio.dll
+C:\Users\joser\OneDrive\Escritorio\Materias 5° Semestre\Taller de Base de datos\Parcial 4\Proyecto\Copia Seguridad\Proyecto\SystemWoodDB\CapaNegocio\bin\Debug\CapaNegocio.pdb
+C:\Users\joser\OneDrive\Escritorio\Materias 5° Semestre\Taller de Base de datos\Parcial 4\Proyecto\Copia Seguridad\Proyecto\SystemWoodDB\CapaNegocio\bin\Debug\CapaDatos.dll
+C:\Users\joser\OneDrive\Escritorio\Materias 5° Semestre\Taller de Base de datos\Parcial 4\Proyecto\Copia Seguridad\Proyecto\SystemWoodDB\CapaNegocio\bin\Debug\CapaEntidades.dll
+C:\Users\joser\OneDrive\Escritorio\Materias 5° Semestre\Taller de Base de datos\Parcial 4\Proyecto\Copia Seguridad\Proyecto\SystemWoodDB\CapaNegocio\bin\Debug\CapaDatos.pdb
+C:\Users\joser\OneDrive\Escritorio\Materias 5° Semestre\Taller de Base de datos\Parcial 4\Proyecto\Copia Seguridad\Proyecto\SystemWoodDB\CapaNegocio\bin\Debug\CapaEntidades.pdb
+C:\Users\joser\OneDrive\Escritorio\Materias 5° Semestre\Taller de Base de datos\Parcial 4\Proyecto\Copia Seguridad\Proyecto\SystemWoodDB\CapaNegocio\obj\Debug\CapaNegocio.csprojResolveAssemblyReference.cache
+C:\Users\joser\OneDrive\Escritorio\Materias 5° Semestre\Taller de Base de datos\Parcial 4\Proyecto\Copia Seguridad\Proyecto\SystemWoodDB\CapaNegocio\obj\Debug\CapaNegocio.dll
+C:\Users\joser\OneDrive\Escritorio\Materias 5° Semestre\Taller de Base de datos\Parcial 4\Proyecto\Copia Seguridad\Proyecto\SystemWoodDB\CapaNegocio\obj\Debug\CapaNegocio.pdb
